@@ -53,3 +53,7 @@ yarn-error.log*
 *.pyc
 .coverage
 htmlcov/ 
+
+
+# db files
+/backend/db/
