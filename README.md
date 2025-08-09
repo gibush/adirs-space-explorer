@@ -82,11 +82,11 @@ space-explorer/
    ```
 5. Run the FastAPI server with Uvicorn:
    ```bash
-   uvicorn app:app --reload --port 5000
+   uvicorn app:app --reload --port 8080
    ```
-   The backend will run on http://localhost:5000
+   The backend will run on http://localhost:8080
 
-   - The API docs are available at http://localhost:5000/docs
+   - The API docs are available at http://localhost:8080/docs
 
 ### Frontend Setup
 1. Navigate to the frontend directory:
